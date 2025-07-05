@@ -13,7 +13,7 @@ PINGTUNNEL_CMD = [
 ]
 
 CPU_THRESHOLD = 95  # percent
-RAM_THRESHOLD = 12  # percent
+RAM_THRESHOLD = 13  # percent
 CHECK_INTERVAL = 1  # seconds
 
 def start_process():
