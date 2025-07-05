@@ -1,6 +1,8 @@
 # Pingtunnel-Tamer
 A simple script to tame Pingtunnel
 
+![App Screenshot](https://raw.githubusercontent.com/Sir-MmD/Pingtunnel-Tamer/refs/heads/main/screenshot.png)
+
 ## What is this?
 As you may know, the Pingtunnel project (https://github.com/esrrhs/pingtunnel) has a serious resource usage issue, which can lead to it being terminated by the OS on virtual machines or even crashing dedicated hosts.
 
